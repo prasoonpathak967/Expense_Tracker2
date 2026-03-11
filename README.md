@@ -180,7 +180,7 @@ Expense_Tracker2
 └── ExpenseTracker2Application.java
 ⚙️ How to Run the Project
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/expense-tracker.git
+https://github.com/prasoonpathak967/Expense_Tracker2
 2️⃣ Open Project
 
 Open the project in:
@@ -207,9 +207,6 @@ or using Maven:
 mvn spring-boot:run
 5️⃣ Server Starts
 
-Default URL:
-
-http://localhost:8080
 🔗 API Endpoints
 Method	Endpoint	Description
 POST	/api/expenses	Add expense
